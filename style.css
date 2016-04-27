@@ -34,3 +34,6 @@ a:hover{
 .blob{
   margin-bottom: 20px;
 }
+.small{
+  font-size: 0.5em;
+}
