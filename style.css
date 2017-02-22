@@ -1,6 +1,6 @@
 body{
   font-family: Nunito;
-  font-size: 50px;
+  font-size: 40px;
   font-weight: bold;
   text-align: center;
   margin-top: 20px;
@@ -27,7 +27,7 @@ a:hover{
   padding: 10 10 10 10;
 }
 .hdr{
-  font-size: 2em;
+  font-size: 1.5em;
   margin-bottom: 30px;
   letter-spacing: 4px;
 }
