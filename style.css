@@ -7,6 +7,10 @@ body{
   letter-spacing: 2px;
 }
 
+#content-wrapper {
+  max-width: 100%;
+}
+
 a{
   text-decoration: none;
   color: #6666FF;
@@ -25,6 +29,9 @@ a:hover{
 .blob{
   margin: 1em 1em;
 }
+.blobhed {
+  margin-bottom: 0.2em;
+}
 .blobsubhed {
   font-size: 0.6em;
   color: #888;
@@ -36,5 +43,5 @@ a:hover{
 #footer {
   text-align: center;
   margin-top: 4em;
-  font-size: 0.3em;
+  font-size: 10pt;
 }
