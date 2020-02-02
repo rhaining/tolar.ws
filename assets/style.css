@@ -1,0 +1,61 @@
+body{
+  font-family: Georgia;
+  font-size: 30pt;
+  /* font-weight: bold; */
+  /* text-align: center; */
+  color: #333;
+  letter-spacing: 2pt;
+  margin: 10pt 10pt;
+}
+@media only screen and (max-width: 800pt) {
+  body{
+    font-size: 15pt;
+    letter-spacing: 2pt;
+  }
+}
+
+#content-wrapper {
+  max-width: 500pt;
+  margin: auto;
+}
+
+a {
+  color: #64A3EC; /* blue */
+}
+a:visited {
+  color: #CB5254; /* red */
+}
+.hdr{
+  font-size: 1.3em;
+  letter-spacing: 4pt;
+  font-weight: bold;
+}
+.subhed {
+  font-size: 1.1em;
+  letter-spacing: 2pt;
+  color: #666;
+  font-style: italic;
+}
+.blob{
+  margin: 1em 1em;
+}
+.blobhed {
+  font-weight: bold;
+  margin-bottom: 0.2em;
+}
+.blobhed img {
+  height: 0.8em;
+}
+.blobsubhed {
+  font-size: 0.6em;
+  color: #888;
+}
+.small{
+  font-size: 0.5em;
+  line-height: 2em;
+}
+#footer {
+  text-align: center;
+  margin-top: 4em;
+  font-size: 10pt;
+}
